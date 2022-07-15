@@ -1,4 +1,4 @@
-### 🚀 | functionsExercisesr
+### 🚀 | functionsExercises
 - 💬 The variables name and another type input & output data is writted on Spanish.
 - 🧾 All the exercises that i did of the functions block of C++. (Intermediate - Advanced exercises)
 - 💝 If you liked it, please give a Star.
